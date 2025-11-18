@@ -1,15 +1,13 @@
-If you'd like some ideas on what you can do next with comic_git...
+This was the very first Love and Hex episode. It was not originally intended to be an ongoing series -- rather, it was just a gag for my friends.
 
-* Replace the image on this page with your own comic image by replacing the `Page 1.png` file at `your_content/comics/001/`
-* Update this page's Post Date, Tags, or other details by updating the `info.ini` file at `your_content/comics/001/`
-* Replace the text you're reading right now by updating the `post.txt` file at `your_content/comics/001/`
-* Change the English transcript below by updating the `English.txt` file at `your_content/comics/001/`
-* Read through [Adding Comic Pages](https://comic-git.gitbook.io/documentation/basic-editing/adding-comic-pages) for more information on uploading comic pages to your site.
+After our four-year campaign finally ended, when the king was deposed, the demilich was defeated, and the great war was stopped, I asked the players, "What will your characters do now?"
 
-For more helpful tips on how best to use comic_git:
+The player of Singing Cricket, our Drunken Master Monk, said, "I'd like to see where things go with that night hag who had a crush on me."
 
-* If you want your home page to be your latest comic, [set your Theme](https://comic-git.gitbook.io/documentation/advanced-editing/themes#using-existing-themes) to `homepage_is_latest_comic`.
-* To make basic aesthetic changes to your new website, like changing colors and fonts, update the `fonts.css` and `stylesheet.css` files located in the `your_content/themes/<theme>/css/` folder.
-* Make sure you read through and understand the [Basic Editing](https://comic-git.gitbook.io/documentation/basic-editing/editing-your-website) section of the documentation.
-* Once you're comfortable with the basic comic_git usage, make sure to check out [Advanced Editing](https://comic-git.gitbook.io/documentation/advanced-editing/advanced-editing-and-the-comic_git-engine) or even [Expert Editing](https://comic-git.gitbook.io/documentation/expert-editing/expert-editing)!
-* If you ever have troubles, or your website doesn't build properly, make sure to check out the [Troubleshooting](https://comic-git.gitbook.io/documentation/additional-information/troubleshooting) page.
+The idea amused me so much, I sketched out a quick comic depicting their life together.
+
+Then I shared it with the r/DnD community on Reddit. They loved it, and asked for more.
+
+The second episode blew up, and someone suggested I post it on Webtoons.
+
+This strange relationship continued to inspire me, so I continued to draw. And suddenly, I've got a webcomic.
