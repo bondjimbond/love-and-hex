@@ -106,3 +106,9 @@ code {
 #storyline, #characters, #tags {
     font-style: italic;  /* Delete this to unitalicize the tags */
 }
+
+/* My own customizations */
+
+.comic-image {
+  max-width: 1000px;
+}
