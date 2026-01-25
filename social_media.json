@@ -1,0 +1,23 @@
+{
+    "base": {
+        "og:type": "website",
+        "og:site_name": "Love and Hex",
+        "og:title": "Love and Hex",
+        "og:description": "A retired adventurer pursues a relationship with the young night hag who once tried to steal his soul. This time... she's stolen his heart.",
+        "og:url": "crookedgoat.ca",
+        "og:image": "your_content/images/logo.png"
+    },
+    "comic": {
+        "og:type": "article",
+        "og:site_name": "Love and Hex",
+        "og:title": "_title",
+        "og:description": "_post_text",
+        "og:url": "_url",
+        "og:image": "_thumbnail",
+        "og:image:alt": "_alt_text"
+    },
+
+    "latest": {
+       "_inherits": "comic" 
+    }
+}

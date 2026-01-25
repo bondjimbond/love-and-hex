@@ -1,0 +1,34 @@
+<!-- Anything in brackets that start with an exclamation mark, like this, is called a comment! It will not affect the HTML of your page. It's just a note from me to you! -->
+<!-- There's a little extra HTML I've added here to jazz up the front page, but you don't need it! If you just want basic HTML with p tags and h1 tags and such, that will also work just fine. -->
+
+<!-- The front page uses a responsive 2-column layout. This is done by first defining what content is going to be in the column layout, like so. -->
+<div class="right-column-layout"></div>
+<!-- For this page, I've used a layout where the right column is wider than the left. If you want the left column to be wider than the right, change the class to "left-column-layout"! -->
+
+<!-- Next, we separate what we want into the left and right columns. -->
+<div class="left-column">
+<br/>
+</div>
+
+<div class="right-column">
+This space is for extra comics, bonus art, and fan art.<br/><br/>
+
+<table style="width: 100%;">
+<tr style="height: 200px;">
+<td style="text-align: center; padding-top: 10px; padding-left: 20px; padding-right: 10px; width:150px; vertical-align:top;"><a href="/extracomics/comic/ANewChance"><img src="/your_content/extras/comics/ANewChance/A%20New%20Chance_001.png" /></a></td>
+<td style="text-align: left; padding-left: 20px; padding-right: 30px; vertical-align:center;"><div align="left"><a class="button" href="/extracomics/comic/ANewChance">A New Chance</a><br /><br /> <br/><i>A New Chance</i> follows the story of Cotton, an Eevee who was left for dead one night in the middle of a dangerous forest. The story shows making new friends and gaining a new family.<br/>This was one of my first fully "family friendly" works, a doujin I made as a labor of love.<br/>I'm still very happy with it.
+</div>
+</td>
+</tr>
+</table>
+
+
+</div>
+
+
+</div>
+<!-- That's the end of the column layout! Everything below this is just normal HTML. -->
+
+<!-- If you want to set some information apart, you can set the class as "infobox"! That will put your content in a different block of color, which can be defined in stylesheet.css. -->
+
+
