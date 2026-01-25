@@ -34,7 +34,12 @@
         If you want to set some information apart, you can set the class as "infobox"! That will put your content in a
         different block of color, which can be defined in stylesheet.css.
         -->
-        <p class="infobox">The first Love and Hex print volume will soon be available to purchase!</p>
+        <p class="infobox">The first Love and Hex is now available to purchase!
+        <ul>
+          <li><a href="https://www.amazon.com/Love-Hex-1-Honeymoon-Phase/dp/B0GJJKV2R3">Find it on Amazon</a></li>
+          <li><a href="https://thecomcraft.com/shop/love-and-hex">Book and t-shirts on Comcraft</a></li>
+        </ul>
+        </p>
     </div>
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
