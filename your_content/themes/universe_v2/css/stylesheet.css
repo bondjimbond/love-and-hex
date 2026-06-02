@@ -136,3 +136,7 @@ h1#post-title {
 #transcript-panel {
     min-width: 80%;
 }
+
+.comic-image {
+  max-width: 100%;
+}
