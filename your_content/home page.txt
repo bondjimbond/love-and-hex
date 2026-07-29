@@ -37,7 +37,6 @@
         <p class="infobox">The first Love and Hex is now available to purchase!
         <ul>
           <li><a href="https://www.amazon.com/Love-Hex-1-Honeymoon-Phase/dp/B0GJJKV2R3">Find it on Amazon</a></li>
-          <li><a href="https://thecomcraft.com/shop/love-and-hex">Book and t-shirts on Comcraft</a></li>
         </ul>
         </p>
     </div>
