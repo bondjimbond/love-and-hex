@@ -112,11 +112,3 @@ code {
 .comic-image {
   max-width: 100%;
 }
-
-@media (max-width: 768px) {
-
-    #links-bar {
-        flex-wrap: wrap;
-    }
-
-}
