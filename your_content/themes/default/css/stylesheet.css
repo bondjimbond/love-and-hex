@@ -112,3 +112,23 @@ code {
 .comic-image {
   max-width: 100%;
 }
+
+@media (max-width: 768px) {
+
+    #links-bar {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 0.5rem 0.75rem;
+        padding: 0.5rem;
+    }
+
+    #links-bar .link-bar-separator {
+        display: none;
+    }
+
+    #links-bar .link-bar-link {
+        white-space: nowrap;
+    }
+
+}
