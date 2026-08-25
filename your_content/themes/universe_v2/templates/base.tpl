@@ -87,7 +87,7 @@
     {%- endif %}
 
     <div id="powered-by">
-        Powered by <a id="powered-by-link" href="https://www.comic-git.com">comic_git</a> v{{ version }}
+        © 2021 Brandon Weigel, all rights reserved.
     </div>
 </div>
 {% endblock %}
