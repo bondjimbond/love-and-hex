@@ -112,3 +112,6 @@ code {
 .comic-image {
   max-width: 100%;
 }
+#links-bar {
+    border: 5px solid red;
+}
